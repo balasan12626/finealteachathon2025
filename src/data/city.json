@@ -1,0 +1,1494 @@
+{
+  "Ariyalur": {
+    "name": "Ariyalur",
+    "lat": 11.1384,
+    "lng": 79.0756,
+    "image": "https://example.com/ariyalur.jpg",
+    "description": "Known for its cement industries and rich fossil deposits.",
+    "heritagePlaces": [
+      {
+        "id": "ariyalur-gangaikonda-cholapuram",
+        "name": "Gangaikonda Cholapuram",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gangaikonda_Cholapuram_Temple.jpg",
+        "description": "A UNESCO World Heritage Site built by Rajendra Chola I, renowned for its grand architecture and intricate sculptures.",
+        "story": "Constructed in the 11th century by Rajendra Chola I to commemorate his victorious expedition to the Ganges, this temple stands as a testament to Chola architectural brilliance.",
+        "year": "1035",
+        "location": {
+          "lat": 11.2000,
+          "lng": 79.5000
+        }
+      },
+      {
+        "id": "ariyalur-thirumazhapadi-vaidyaswami-temple",
+        "name": "Thirumazhapadi Vaidyanathaswami Temple",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Thirumazhapadi_Vaidyanathaswami_Temple.jpg",
+        "description": "A Paadal Petra Sthalam dedicated to Lord Shiva, known for its annual Nandi Kalyanam festival.",
+        "story": "This ancient temple, celebrated in Tamil Saivite hymns, hosts the unique Nandi Kalyanam festival, symbolizing the celestial wedding of Nandi.",
+        "year": "10th century",
+        "location": {
+          "lat": 11.2500,
+          "lng": 79.3000
+        }
+      },
+      {
+        "id": "ariyalur-vajrathampanathar-temple",
+        "name": "Vajrathampanathar Temple",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vajrathampanathar_Temple.jpg",
+        "description": "An ancient temple showcasing Chola architecture and inscriptions from multiple dynasties.",
+        "story": "Built during the reign of Sundara Chola in 962 AD, this temple houses over forty inscriptions from the Chola, Pandya, and Hoysala periods.",
+        "year": "962",
+        "location": {
+          "lat": 11.1500,
+          "lng": 79.4000
+        }
+      },
+      {
+        "id": "ariyalur-elakurichi-adaikala-madha-shrine",
+        "name": "Elakurichi Adaikala Madha Shrine",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Elakurichi_Adaikala_Madha_Shrine.jpg",
+        "description": "A renowned Catholic pilgrimage center established by missionary Constanzo Beschi.",
+        "story": "Founded by Italian Jesuit missionary Constanzo Beschi, also known as Veeramamunivar, this shrine is a significant site for Christian pilgrims.",
+        "year": "18th century",
+        "location": {
+          "lat": 11.0500,
+          "lng": 79.3500
+        }
+      },
+      {
+        "id": "ariyalur-jayankondam-varadharaja-perumal-temple",
+        "name": "Jayankondam Varadharaja Perumal Temple",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jayankondam_Varadharaja_Perumal_Temple.jpg",
+        "description": "A Divya Desam temple dedicated to Lord Vishnu, revered in Vaishnavite traditions.",
+        "story": "This temple is one of the 108 Divya Desams, sacred abodes of Vishnu, and holds immense spiritual significance for devotees.",
+        "year": "9th century",
+        "location": {
+          "lat": 11.2000,
+          "lng": 79.3500
+        }
+      },
+      {
+        "id": "ariyalur-alanduraiyar-temple",
+        "name": "Alanduraiyar Temple",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Alanduraiyar_Temple.jpg",
+        "description": "An ancient Shiva temple associated with the 7th-century saint Thirugnanasambandar.",
+        "story": "Believed to be worshipped by Parasurama, this temple was originally built in brick and later reconstructed in stone during the Chola period.",
+        "year": "10th century",
+        "location": {
+          "lat": 11.1500,
+          "lng": 79.4000
+        }
+      },
+      {
+        "id": "ariyalur-kodandaramaswamy-temple",
+        "name": "Kodandaramaswamy Temple",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kodandaramaswamy_Temple.jpg",
+        "description": "A Vishnu temple featuring idols of Rama, Sita, and Lakshmana.",
+        "story": "Constructed by a Palubettaraiyar chieftain in the 17th century, this temple is a significant site for devotees of Lord Rama.",
+        "year": "17th century",
+        "location": {
+          "lat": 11.1500,
+          "lng": 79.0700
+        }
+      },
+      {
+        "id": "ariyalur-ganga-jadadisvarar-temple",
+        "name": "Ganga Jadadisvarar Temple",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ganga_Jadadisvarar_Temple.jpg",
+        "description": "A temple dedicated to Lord Shiva, praised in Devaram hymns by saints Appar and Sambandar.",
+        "story": "Built by Uttama Chola's officer in 980 AD, this temple is located in Govindaputtur and is known for its Dravidian architecture.",
+        "year": "980",
+        "location": {
+          "lat": 11.2000,
+          "lng": 79.4000
+        }
+      },
+      {
+        "id": "ariyalur-fossil-museum",
+        "name": "Fossil Museum",
+        "city": "Ariyalur",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fossil_Museum_Ariyalur.jpg",
+        "description": "A museum showcasing fossils from the Cretaceous period, including dinosaur eggs and marine fossils.",
+        "story": "Ariyalur's rich fossil heritage, including dinosaur and ammonite fossils, is preserved in this museum, attracting researchers and tourists alike.",
+        "year": "Modern",
+        "location": {
+          "lat": 11.1382,
+          "lng": 79.0755
+        }
+      }
+    ]
+    
+  },
+  "Chengalpattu": {
+    "name": "Chengalpattu",
+    "lat": 12.6825,
+    "lng": 79.9779,
+    "image": "https://example.com/chengalpattu.jpg",
+    "description": "Famous for its historical temples and proximity to Chennai.",
+    "heritagePlaces":[
+      {
+        "id": "chengalpattu-arjuna-penance",
+        "name": "Arjuna's Penance",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Arjuna%27s_Penance.jpg",
+        "description": "A massive open-air rock relief depicting scenes from Hindu mythology.",
+        "story": "Carved during the Pallava period, this bas-relief illustrates either Arjuna's penance to obtain Shiva's weapon or Bhagiratha's penance to bring the Ganges to earth.",
+        "year": "7th century",
+        "location": {
+          "lat": 12.6208,
+          "lng": 80.1931
+        }
+      },
+      {
+        "id": "chengalpattu-pancha-rathas",
+        "name": "Pancha Rathas",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pancha_Rathas.jpg",
+        "description": "Five monolithic rock-cut temples, each carved in the shape of a chariot.",
+        "story": "Attributed to the reign of King Narasimhavarman I, these structures are exemplary of Dravidian architecture and are part of the UNESCO World Heritage Site at Mahabalipuram.",
+        "year": "7th century",
+        "location": {
+          "lat": 12.6117,
+          "lng": 80.1932
+        }
+      },
+      {
+        "id": "chengalpattu-shore-temple",
+        "name": "Shore Temple",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Shore_Temple.jpg",
+        "description": "A structural temple built with blocks of granite, overlooking the Bay of Bengal.",
+        "story": "Constructed during the reign of Narasimhavarman II, it's one of the oldest structural stone temples in South India and part of the Mahabalipuram UNESCO World Heritage Site.",
+        "year": "8th century",
+        "location": {
+          "lat": 12.6208,
+          "lng": 80.1945
+        }
+      },
+      {
+        "id": "chengalpattu-ganesh-ratha",
+        "name": "Ganesh Ratha",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ganesh_Ratha.jpg",
+        "description": "A monolithic temple dedicated to Lord Ganesha.",
+        "story": "Originally dedicated to Shiva, it was later converted to a Ganesha temple. The structure showcases the evolution of Dravidian temple architecture.",
+        "year": "7th century",
+        "location": {
+          "lat": 12.6225,
+          "lng": 80.1925
+        }
+      },
+      {
+        "id": "chengalpattu-varaha-cave-temple",
+        "name": "Varaha Cave Temple",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Varaha_Cave_Temple.jpg",
+        "description": "A rock-cut cave temple featuring depictions of Vishnu's Varaha avatar.",
+        "story": "This temple houses intricate bas-reliefs, including the depiction of Varaha rescuing Bhudevi, exemplifying Pallava artistry.",
+        "year": "7th century",
+        "location": {
+          "lat": 12.6220,
+          "lng": 80.1920
+        }
+      },
+      {
+        "id": "chengalpattu-krishna-mandapam",
+        "name": "Krishna Mandapam",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Krishna_Mandapam.jpg",
+        "description": "A rock-cut cave temple depicting Lord Krishna lifting Govardhan Hill.",
+        "story": "The relief showcases Krishna protecting villagers from torrential rains, highlighting themes of divine intervention and protection.",
+        "year": "7th century",
+        "location": {
+          "lat": 12.6215,
+          "lng": 80.1928
+        }
+      },
+      {
+        "id": "chengalpattu-lighthouse",
+        "name": "Mahabalipuram Lighthouse",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mahabalipuram_Lighthouse.jpg",
+        "description": "A lighthouse built in 1900, adjacent to ancient Pallava-era structures.",
+        "story": "Standing beside an older lighthouse built by the Pallavas, it represents the continuity of maritime navigation aids in the region.",
+        "year": "1900",
+        "location": {
+          "lat": 12.6197,
+          "lng": 80.1920
+        }
+      },
+      {
+        "id": "chengalpattu-olakkanesvara-temple",
+        "name": "Olakkanesvara Temple",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Olakkanesvara_Temple.jpg",
+        "description": "A structural temple dedicated to Lord Shiva, located atop a hillock.",
+        "story": "Also known as the Old Lighthouse, it served both religious and navigational purposes during the Pallava period.",
+        "year": "8th century",
+        "location": {
+          "lat": 12.6195,
+          "lng": 80.1915
+        }
+      },
+      {
+        "id": "chengalpattu-tiger-cave",
+        "name": "Tiger Cave",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tiger_Cave.jpg",
+        "description": "A rock-cut shrine adorned with tiger head carvings.",
+        "story": "Believed to have been a royal retreat or a venue for cultural performances during the Pallava era.",
+        "year": "8th century",
+        "location": {
+          "lat": 12.6650,
+          "lng": 80.2000
+        }
+      },
+      {
+        "id": "chengalpattu-dakshina-chitra",
+        "name": "DakshinaChitra",
+        "city": "Chengalpattu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/DakshinaChitra.jpg",
+        "description": "A living-history museum preserving South Indian heritage, arts, and culture.",
+        "story": "Established in 1996, this open-air museum houses traditional homes from Tamil Nadu, Kerala, Karnataka, and Andhra Pradesh and showcases rural life, craft, and tradition.",
+        "year": "1996",
+        "location": {
+          "lat": 12.8236,
+          "lng": 80.2454
+        }
+      }
+    ]
+    
+  },
+  "Chennai": {
+    "name": "Chennai",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "image": "https://images.pexels.com/photos/9309093/pexels-photo-9309093.jpeg",
+    "description": "The capital city of Tamil Nadu, known for its cultural heritage, beaches, and historical monuments.",
+    "heritagePlaces": [
+      [
+        {
+          "id": "chennai-fort-st-george",
+          "name": "Fort St. George",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fort_St_George_Chennai.jpg",
+          "description": "The first English fortress in India, established in 1644.",
+          "story": "Built by the British East India Company, Fort St. George marked the beginning of modern Chennai. It now houses the Tamil Nadu Legislative Assembly and Secretariat.",
+          "year": "1644",
+          "location": {
+            "lat": 13.0798,
+            "lng": 80.2847
+          }
+        },
+        {
+          "id": "chennai-kapaleeshwarar-temple",
+          "name": "Kapaleeshwarar Temple",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kapaleeshwarar_Temple_Chennai.jpg",
+          "description": "A historic Hindu temple dedicated to Lord Shiva, located in Mylapore.",
+          "story": "This 7th-century temple built in Dravidian style is a cultural and spiritual landmark of Chennai, believed to be originally built by the Pallavas and later rebuilt by the Vijayanagara kings.",
+          "year": "7th century",
+          "location": {
+            "lat": 13.0338,
+            "lng": 80.2697
+          }
+        },
+        {
+          "id": "chennai-parthasarathy-temple",
+          "name": "Parthasarathy Temple",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Parthasarathy_Temple_Chennai.jpg",
+          "description": "A 6th-century temple dedicated to Lord Krishna in Triplicane.",
+          "story": "Built by the Pallavas and later renovated by the Cholas and Vijayanagar rulers, the temple is unique for housing all five forms of Krishna.",
+          "year": "6th century",
+          "location": {
+            "lat": 13.0487,
+            "lng": 80.2784
+          }
+        },
+        {
+          "id": "chennai-san-thome-basilica",
+          "name": "San Thome Basilica",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/San_Thome_Basilica.jpg",
+          "description": "A Roman Catholic minor basilica built over the tomb of St. Thomas the Apostle.",
+          "story": "This neo-Gothic church, rebuilt in 1896, stands at the site believed to be the burial place of St. Thomas, one of the twelve apostles of Jesus.",
+          "year": "16th century",
+          "location": {
+            "lat": 13.0273,
+            "lng": 80.2795
+          }
+        },
+        {
+          "id": "chennai-government-museum",
+          "name": "Government Museum",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Government_Museum_Chennai.jpg",
+          "description": "One of the oldest museums in India, located in Egmore.",
+          "story": "Established in 1851, it features rare artifacts including archaeological and numismatic collections, and houses the Connemara Public Library.",
+          "year": "1851",
+          "location": {
+            "lat": 13.0723,
+            "lng": 80.2436
+          }
+        },
+        {
+          "id": "chennai-valluvar-kottam",
+          "name": "Valluvar Kottam",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Valluvar_Kottam.jpg",
+          "description": "A monument dedicated to Tamil poet and philosopher Thiruvalluvar.",
+          "story": "Built in 1976, the monument honors Thiruvalluvar, author of the Thirukkural. Its auditorium is one of the largest in Asia.",
+          "year": "1976",
+          "location": {
+            "lat": 13.0584,
+            "lng": 80.2421
+          }
+        },
+        {
+          "id": "chennai-vivekananda-house",
+          "name": "Vivekananda House",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Vivekanandar_Illam.jpg",
+          "description": "Historical building where Swami Vivekananda stayed in 1897.",
+          "story": "Originally called Ice House, it was renamed to honor Swami Vivekananda. Now it serves as a cultural center displaying his works and teachings.",
+          "year": "19th century",
+          "location": {
+            "lat": 13.0450,
+            "lng": 80.2777
+          }
+        },
+        {
+          "id": "chennai-royapuram-station",
+          "name": "Royapuram Railway Station",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Royapuram_railway_station.jpg",
+          "description": "Oldest surviving railway station in India.",
+          "story": "Inaugurated in 1856, Royapuram marks the birthplace of railway services in South India. It continues to function as an active station.",
+          "year": "1856",
+          "location": {
+            "lat": 13.1046,
+            "lng": 80.2931
+          }
+        },
+        {
+          "id": "chennai-marina-beach",
+          "name": "Marina Beach",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Marina_Beach_Chennai.jpg",
+          "description": "India's longest natural urban beach, rich in colonial and cultural history.",
+          "story": "Developed during the British Raj, the beach is flanked by historic buildings like the University of Madras, Senate House, and memorials of key Tamil leaders.",
+          "year": "19th century",
+          "location": {
+            "lat": 13.0500,
+            "lng": 80.2824
+          }
+        },
+        {
+          "id": "chennai-theosophical-society",
+          "name": "Theosophical Society",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Theosophical_Society_Chennai.jpg",
+          "description": "A spiritual and philosophical organization founded in 1875.",
+          "story": "Its headquarters in Adyar spreads across 260 acres, featuring diverse shrines and the historic 450-year-old banyan tree.",
+          "year": "1882",
+          "location": {
+            "lat": 13.0063,
+            "lng": 80.2574
+          }
+        },
+        {
+          "id": "chennai-basilica-of-our-lady-of-good-health",
+          "name": "Basilica of Our Lady of Good Health",
+          "city": "Chennai",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Basilica_of_Our_Lady_of_Good_Health.jpg",
+          "description": "A Roman Catholic church in Velankanni, Chennai, known for its historical and religious significance.",
+          "story": "Built in the 16th century, it is a pilgrimage site dedicated to the Virgin Mary. It is one of the oldest and most prominent churches in India.",
+          "year": "16th century",
+          "location": {
+            "lat": 12.8686,
+            "lng": 80.1827
+          }
+        }
+      ]
+      
+    ]
+  },
+  "Coimbatore": {
+    "name": "Coimbatore",
+    "lat": 11.0174,
+    "lng": 76.9589,
+    "image": "https://images.pexels.com/photos/15371817/pexels-photo-15371817/free-photo-of-aerial-photography-of-coimbatore-city.jpeg",
+    "description": "Known as the 'Manchester of South India', famous for its textile industry and surrounded by the Western Ghats.",
+    "heritagePlaces":[
+      {
+        "id": "coimbatore-marudamalai-temple",
+        "name": "Marudamalai Temple",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Marudamalai_temple.jpg",
+        "description": "A popular hilltop Hindu temple dedicated to Lord Murugan.",
+        "story": "Located on a hill, the Marudamalai temple is known for its scenic surroundings and architectural beauty. It is one of the most visited temples in Tamil Nadu.",
+        "year": "12th century",
+        "location": {
+          "lat": 10.9515,
+          "lng": 76.9800
+        }
+      },
+      {
+        "id": "coimbatore-perur-patyala-temple",
+        "name": "Perur Pateeswarar Temple",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Perur_Pateeswarar_Temple.jpg",
+        "description": "A prominent ancient temple dedicated to Lord Shiva.",
+        "story": "Built by the Chola kings, this temple is famous for its magnificent sculptures and historical significance, attracting pilgrims from all over the region.",
+        "year": "12th century",
+        "location": {
+          "lat": 10.9869,
+          "lng": 76.9493
+        }
+      },
+      {
+        "id": "coimbatore-tidel-park",
+        "name": "Tidel Park",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tidel_Park.jpg",
+        "description": "A modern IT park and a notable commercial landmark in Coimbatore.",
+        "story": "Tidel Park is a major commercial landmark in Coimbatore, hosting several tech companies and fostering the city's growth as a tech hub.",
+        "year": "2008",
+        "location": {
+          "lat": 11.0070,
+          "lng": 76.9637
+        }
+      },
+      {
+        "id": "coimbatore-kovai-kutralam",
+        "name": "Kovai Kutralam",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kovai_Kutralam_waterfall.jpg",
+        "description": "A beautiful waterfall located in the Western Ghats.",
+        "story": "Known for its natural beauty and serene surroundings, Kovai Kutralam is a favorite among tourists seeking a peaceful getaway.",
+        "year": "Natural formation",
+        "location": {
+          "lat": 11.2890,
+          "lng": 76.9767
+        }
+      },
+      {
+        "id": "coimbatore-sree-durga-bhuwaneswari-temple",
+        "name": "Sree Durga Bhuwaneswari Temple",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Durga_Bhuwaneswari_Temple.jpg",
+        "description": "A famous temple dedicated to Goddess Durga.",
+        "story": "This temple is known for its spiritual significance and vibrant celebrations of festivals like Navaratri, attracting devotees from all over.",
+        "year": "19th century",
+        "location": {
+          "lat": 10.9896,
+          "lng": 76.9537
+        }
+      },
+      {
+        "id": "coimbatore-gass-forest-museum",
+        "name": "Gass Forest Museum",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gass_Forest_Museum.jpg",
+        "description": "A museum dedicated to the conservation of forests and wildlife.",
+        "story": "Established in 1902, the museum is known for its rare exhibits on forest ecology, plants, and animals of the region, promoting conservation awareness.",
+        "year": "1902",
+        "location": {
+          "lat": 10.9914,
+          "lng": 76.9486
+        }
+      },
+      {
+        "id": "coimbatore-brookefields-mall",
+        "name": "Brookefields Mall",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Brookefields_Mall.jpg",
+        "description": "One of the largest and most popular shopping malls in Coimbatore.",
+        "story": "Opened in 2009, Brookefields is known for its modern facilities and diverse range of stores, making it a popular destination for both locals and tourists.",
+        "year": "2009",
+        "location": {
+          "lat": 11.0134,
+          "lng": 76.9647
+        }
+      },
+      {
+        "id": "coimbatore-bhimavaram-temple",
+        "name": "Bhimavaram Temple",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bhimavaram_Temple.jpg",
+        "description": "A revered Hindu temple dedicated to Lord Shiva.",
+        "story": "The Bhimavaram Temple, believed to have been built during the Chola dynasty, is known for its serene environment and historic religious significance.",
+        "year": "10th century",
+        "location": {
+          "lat": 10.9600,
+          "lng": 76.9620
+        }
+      },
+      {
+        "id": "coimbatore-ranganathaswamy-temple",
+        "name": "Ranganathaswamy Temple",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ranganathaswamy_Temple.jpg",
+        "description": "A sacred temple dedicated to Lord Vishnu.",
+        "story": "Located in a beautiful environment, the Ranganathaswamy Temple is an important religious landmark and has ancient inscriptions on its walls.",
+        "year": "10th century",
+        "location": {
+          "lat": 11.0270,
+          "lng": 76.9342
+        }
+      },
+      {
+        "id": "coimbatore-bhavani-sagar-dam",
+        "name": "Bhavani Sagar Dam",
+        "city": "Coimbatore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bhavani_Sagar_Dam.jpg",
+        "description": "A major reservoir and dam located on the Bhavani River.",
+        "story": "Built in the 1950s, the Bhavani Sagar Dam is a major source of water for Coimbatore and plays a crucial role in irrigation and flood control.",
+        "year": "1955",
+        "location": {
+          "lat": 11.5512,
+          "lng": 77.2315
+        }
+      }
+    ]
+    
+  },
+  "Cuddalore": {
+    "name": "Cuddalore",
+    "lat": 11.7447,
+    "lng": 79.7680,
+    "image": "https://example.com/cuddalore.jpg",
+    "description": "A coastal district with beautiful beaches and historical significance.",
+    "heritagePlaces": [
+      
+        {
+          "id": "cuddalore-saints-church",
+          "name": "Saint's Church",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Saints_Church_Cuddalore.jpg",
+          "description": "An ancient church with a rich colonial history.",
+          "story": "Built during the British colonial era, the church is known for its beautiful architecture and its historical importance as a place of worship for the early Christian settlers.",
+          "year": "18th century",
+          "location": {
+            "lat": 11.7483,
+            "lng": 79.7705
+          }
+        },
+        {
+          "id": "cuddalore-pitchavaram",
+          "name": "Pitchavaram Mangrove Forest",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pitchavaram_Mangrove_Forest.jpg",
+          "description": "One of the largest mangrove forests in India.",
+          "story": "Pitchavaram is famous for its natural beauty and biodiversity. The mangrove ecosystem is a critical habitat for various species of birds, fish, and other wildlife.",
+          "year": "Natural formation",
+          "location": {
+            "lat": 11.4717,
+            "lng": 79.7746
+          }
+        },
+        {
+          "id": "cuddalore-kattumannar-koil",
+          "name": "Kattumannar Koil",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kattumannar_Koil.jpg",
+          "description": "An ancient Hindu temple dedicated to Lord Shiva.",
+          "story": "The Kattumannar Koil temple, built by the Chola dynasty, is known for its stunning architecture and carvings, making it an important religious and historical landmark in the region.",
+          "year": "10th century",
+          "location": {
+            "lat": 11.5589,
+            "lng": 79.7726
+          }
+        },
+        {
+          "id": "cuddalore-cuddalore-beach",
+          "name": "Cuddalore Beach",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cuddalore_Beach.jpg",
+          "description": "A serene and less-crowded beach with historical significance.",
+          "story": "Cuddalore Beach offers a peaceful environment for visitors and has been a historical site for the British colonial era, where trade and transport took place.",
+          "year": "Natural formation",
+          "location": {
+            "lat": 11.7490,
+            "lng": 79.7702
+          }
+        },
+        {
+          "id": "cuddalore-nataraja-temple",
+          "name": "Nataraja Temple",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nataraja_Temple_Cuddalore.jpg",
+          "description": "An ancient temple dedicated to Lord Shiva in his cosmic dance form.",
+          "story": "The Nataraja Temple is one of the oldest in the region, known for its intricate carvings and the artistic depiction of Lord Shiva performing the cosmic dance.",
+          "year": "7th century",
+          "location": {
+            "lat": 11.7455,
+            "lng": 79.7714
+          }
+        },
+        {
+          "id": "cuddalore-sankara-puram-temple",
+          "name": "Sankara Puram Temple",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sankara_Puram_Temple.jpg",
+          "description": "A famous Hindu temple dedicated to Lord Vishnu.",
+          "story": "Located near the village of Sankara Puram, this temple is renowned for its tranquil environment and devotion to Lord Vishnu, attracting pilgrims from nearby regions.",
+          "year": "12th century",
+          "location": {
+            "lat": 11.7742,
+            "lng": 79.8087
+          }
+        },
+        {
+          "id": "cuddalore-vadakkal-municipal-park",
+          "name": "Vadakkal Municipal Park",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Vadakkal_Municipal_Park.jpg",
+          "description": "A popular public park with historical elements.",
+          "story": "Vadakkal Park is a place where locals come to relax and enjoy nature. The park has historical elements related to the town's early colonial development.",
+          "year": "20th century",
+          "location": {
+            "lat": 11.7521,
+            "lng": 79.7683
+          }
+        },
+        {
+          "id": "cuddalore-vivekananda-house",
+          "name": "Vivekananda House",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Vivekananda_House_Cuddalore.jpg",
+          "description": "A house dedicated to the memory of Swami Vivekananda.",
+          "story": "This historical house is associated with Swami Vivekananda's visit to Cuddalore. It serves as a cultural center promoting his teachings and philosophies.",
+          "year": "19th century",
+          "location": {
+            "lat": 11.7467,
+            "lng": 79.7749
+          }
+        },
+        {
+          "id": "cuddalore-sri-kothandaramar-temple",
+          "name": "Sri Kothandaramar Temple",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kothandaramar_Temple_Cuddalore.jpg",
+          "description": "A temple dedicated to Lord Rama located in the Cuddalore district.",
+          "story": "This temple is famous for its architectural beauty and its deep religious significance to the local devotees of Lord Rama.",
+          "year": "19th century",
+          "location": {
+            "lat": 11.7468,
+            "lng": 79.7756
+          }
+        },
+        {
+          "id": "cuddalore-annu-aruvi-waterfalls",
+          "name": "Annu Aruvi Waterfalls",
+          "city": "Cuddalore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Annu_Aruvi_Waterfalls.jpg",
+          "description": "A scenic waterfall located in the Cuddalore district.",
+          "story": "The waterfall is a beautiful natural formation, drawing nature lovers and photographers alike. It's a popular spot during the monsoon season.",
+          "year": "Natural formation",
+          "location": {
+            "lat": 11.7442,
+            "lng": 79.7601
+          }
+        }
+      
+      
+    ]
+  },
+  "Dharmapuri": {
+    "name": "Dharmapuri",
+    "lat": 12.1211,
+    "lng": 78.1582,
+    "image": "https://example.com/dharmapuri.jpg",
+    "description": "Known for its mango cultivation and scenic hills.",
+    "heritagePlaces":[
+      {
+        "id": "dharmapuri-banana-plantation",
+        "name": "Banana Plantation",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Banana_Plantation_Dharmapuri.jpg",
+        "description": "Famous for its vast banana plantations and agriculture.",
+        "story": "Dharmapuri is renowned for its extensive banana plantations that have been a major contributor to the region's economy. The fertile soil and climate make it ideal for banana cultivation.",
+        "year": "Agricultural development",
+        "location": {
+          "lat": 12.1071,
+          "lng": 78.1629
+        }
+      },
+      {
+        "id": "dharmapuri-hogenakkal-waterfalls",
+        "name": "Hogenakkal Waterfalls",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hogenakkal_Waterfalls.jpg",
+        "description": "A beautiful waterfall on the Kaveri River, often referred to as the 'Niagara of India.'",
+        "story": "Hogenakkal is famous for its scenic beauty and medicinal baths. The falls are a popular tourist spot, especially known for its boat rides and stunning landscape.",
+        "year": "Natural formation",
+        "location": {
+          "lat": 12.0511,
+          "lng": 78.2246
+        }
+      },
+      {
+        "id": "dharmapuri-murugan-temple",
+        "name": "Murugan Temple",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Murugan_Temple_Dharmapuri.jpg",
+        "description": "A temple dedicated to Lord Murugan, situated in the hills.",
+        "story": "This ancient temple has been a place of worship for devotees of Lord Murugan for centuries, known for its stunning location and spiritual significance.",
+        "year": "Ancient",
+        "location": {
+          "lat": 12.0734,
+          "lng": 78.1731
+        }
+      },
+      {
+        "id": "dharmapuri-kottai-amma-temple",
+        "name": "Kottai Amma Temple",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kottai_Amma_Temple_Dharmapuri.jpg",
+        "description": "A revered Hindu temple dedicated to the goddess Kottai Amma.",
+        "story": "The temple is an important religious site for the people of Dharmapuri and attracts numerous devotees annually during festivals.",
+        "year": "Ancient",
+        "location": {
+          "lat": 12.1078,
+          "lng": 78.1630
+        }
+      },
+      {
+        "id": "dharmapuri-sri-ramanashram",
+        "name": "Sri Ramanashram",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sri_Ramanashram_Dharmapuri.jpg",
+        "description": "An ashram associated with the famous spiritual leader Sri Ramana Maharshi.",
+        "story": "The ashram, located near the holy mountain of Arunachala, is a place of meditation and spiritual awakening for people from all over the world.",
+        "year": "20th century",
+        "location": {
+          "lat": 12.0535,
+          "lng": 78.2297
+        }
+      },
+      {
+        "id": "dharmapuri-arjuna-pillar",
+        "name": "Arjuna Pillar",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arjuna_Pillar_Dharmapuri.jpg",
+        "description": "An ancient stone pillar with historical significance.",
+        "story": "The Arjuna Pillar is believed to be a memorial dedicated to the ancient ruler Arjuna and stands as a testament to the area's rich heritage and history.",
+        "year": "Ancient",
+        "location": {
+          "lat": 12.1224,
+          "lng": 78.1897
+        }
+      },
+      {
+        "id": "dharmapuri-sri-durga-temple",
+        "name": "Sri Durga Temple",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Durga_Temple_Dharmapuri.jpg",
+        "description": "A historic temple dedicated to Goddess Durga.",
+        "story": "This ancient temple is one of the main religious landmarks in Dharmapuri, attracting pilgrims from across the region for its annual festivals.",
+        "year": "Ancient",
+        "location": {
+          "lat": 12.1023,
+          "lng": 78.1735
+        }
+      },
+      {
+        "id": "dharmapuri-sri-venkateswara-temple",
+        "name": "Sri Venkateswara Temple",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sri_Venkateswara_Temple_Dharmapuri.jpg",
+        "description": "A temple dedicated to Lord Venkateswara located in the heart of the city.",
+        "story": "The temple is an important religious center for the locals and is known for its unique architectural style and cultural significance.",
+        "year": "Modern",
+        "location": {
+          "lat": 12.1045,
+          "lng": 78.1702
+        }
+      },
+      {
+        "id": "dharmapuri-penagonda-fort",
+        "name": "Penagonda Fort",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Penagonda_Fort_Dharmapuri.jpg",
+        "description": "A historic fort located in the Penagonda region of Dharmapuri.",
+        "story": "The fort was built during the Vijayanagara period and served as a strategic defense point in the region. It now stands as a symbol of the historical grandeur of the area.",
+        "year": "Vijayanagara period",
+        "location": {
+          "lat": 12.1153,
+          "lng": 78.1805
+        }
+      },
+      {
+        "id": "dharmapuri-sri-ankalamman-temple",
+        "name": "Sri Ankalamman Temple",
+        "city": "Dharmapuri",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sri_Ankalamman_Temple_Dharmapuri.jpg",
+        "description": "A significant temple dedicated to Goddess Ankalamman.",
+        "story": "This ancient temple is considered a sacred place by the local community and is renowned for its traditional rituals and the annual festival it hosts.",
+        "year": "Ancient",
+        "location": {
+          "lat": 12.0917,
+          "lng": 78.1579
+        }
+      }
+    ]
+    
+
+    
+  },
+  "Dindigul": {
+    "name": "Dindigul",
+    "lat": 10.3676,
+    "lng": 77.9803,
+    "image": "https://example.com/dindigul.jpg",
+    "description": "Famous for its locks, biryani, and the Dindigul Fort.",
+    "heritagePlaces": [
+      {
+        "id": "dindigul-dindigul-fort",
+        "name": "Dindigul Fort",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Dindigul_Fort.jpg",
+        "description": "A historic fort located on a hilltop with panoramic views of the surrounding landscape.",
+        "story": "The Dindigul Fort has a rich history, with origins dating back to the 17th century, and has been under various rulers, including the Pandyas, Nayaks, and the British.",
+        "year": "17th century",
+        "location": {
+          "lat": 10.3667,
+          "lng": 77.9804
+        }
+      },
+      {
+        "id": "dindigul-sri-kottai-mariamman-temple",
+        "name": "Sri Kottai Mariamman Temple",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kottai_Mariamman_Temple_Dindigul.jpg",
+        "description": "A famous Hindu temple dedicated to the goddess Mariamman, located in the heart of the city.",
+        "story": "This temple is an important religious site, and it hosts the annual Mariamman festival, attracting thousands of devotees.",
+        "year": "Ancient",
+        "location": {
+          "lat": 10.3630,
+          "lng": 77.9786
+        }
+      },
+      {
+        "id": "dindigul-idaikkal-temple",
+        "name": "Idaikkal Temple",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Idaikkal_Temple_Dindigul.jpg",
+        "description": "A historical temple dedicated to Lord Murugan, located on a hill.",
+        "story": "This temple is situated on a hill and offers breathtaking views of the surrounding landscape. It is an important spiritual center for the region.",
+        "year": "Ancient",
+        "location": {
+          "lat": 10.3265,
+          "lng": 77.9899
+        }
+      },
+      {
+        "id": "dindigul-thadiyan-kottai",
+        "name": "Thadiyan Kottai",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Thadiyan_Kottai_Dindigul.jpg",
+        "description": "A historic fort and military base built during the Vijayanagara period.",
+        "story": "The Thadiyan Kottai served as an important military stronghold and is a fine example of Vijayanagara architecture.",
+        "year": "Vijayanagara period",
+        "location": {
+          "lat": 10.3712,
+          "lng": 77.9930
+        }
+      },
+      {
+        "id": "dindigul-palani-hills-temple",
+        "name": "Palani Hills Temple",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Palani_Hills_Temple.jpg",
+        "description": "A renowned temple dedicated to Lord Murugan, located atop the Palani hills.",
+        "story": "The Palani Hills Temple is one of the six abodes of Lord Murugan, attracting millions of pilgrims every year. The temple is known for its spiritual significance and historical value.",
+        "year": "Ancient",
+        "location": {
+          "lat": 10.4675,
+          "lng": 77.5221
+        }
+      },
+      {
+        "id": "dindigul-sri-arulmigu-dhandayuthapani-temple",
+        "name": "Sri Arulmigu Dhandayuthapani Temple",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dhandayuthapani_Temple_Dindigul.jpg",
+        "description": "A temple dedicated to Lord Murugan, located at the foothills of the Palani mountains.",
+        "story": "This temple is one of the significant Murugan temples in South India, with a rich history of worship and spiritual importance.",
+        "year": "Ancient",
+        "location": {
+          "lat": 10.4633,
+          "lng": 77.5196
+        }
+      },
+      {
+        "id": "dindigul-vandiyur-murugan-temple",
+        "name": "Vandiyur Murugan Temple",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Vandiyur_Murugan_Temple.jpg",
+        "description": "A historic temple dedicated to Lord Murugan, located near Vandiyur Lake.",
+        "story": "This temple is one of the prominent Murugan shrines in the region and is a part of the famous pilgrimage circuit in Tamil Nadu.",
+        "year": "Ancient",
+        "location": {
+          "lat": 10.4605,
+          "lng": 77.9487
+        }
+      },
+      {
+        "id": "dindigul-thoppur-hills",
+        "name": "Thoppur Hills",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Thoppur_Hills_Dindigul.jpg",
+        "description": "A beautiful hill station known for its serene landscape and views.",
+        "story": "The Thoppur Hills are famous for their natural beauty and are a popular tourist destination for those seeking peace and tranquility.",
+        "year": "Natural formation",
+        "location": {
+          "lat": 10.3024,
+          "lng": 77.9634
+        }
+      },
+      {
+        "id": "dindigul-bodhi-tree",
+        "name": "Bodhi Tree",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bodhi_Tree_Dindigul.jpg",
+        "description": "An ancient tree believed to have spiritual significance.",
+        "story": "The Bodhi tree in Dindigul is considered sacred, as it symbolizes enlightenment and has cultural importance in the region.",
+        "year": "Ancient",
+        "location": {
+          "lat": 10.3654,
+          "lng": 77.9773
+        }
+      },
+      {
+        "id": "dindigul-sri-ganapathi-temple",
+        "name": "Sri Ganapathi Temple",
+        "city": "Dindigul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Sri_Ganapathi_Temple_Dindigul.jpg",
+        "description": "A prominent temple dedicated to Lord Ganesha.",
+        "story": "The temple is a vital religious landmark in Dindigul and hosts major festivals like Ganesh Chaturthi, attracting large crowds of devotees.",
+        "year": "Modern",
+        "location": {
+          "lat": 10.3602,
+          "lng": 77.9781
+        }
+      }
+    ]
+    
+  },
+  "Erode": {
+    "name": "Erode",
+    "lat": 11.3428,
+    "lng": 77.7274,
+    "image": "https://example.com/erode.jpg",
+    "description": "Known as the 'Turmeric City' for its turmeric trade.",
+    "heritagePlaces":[
+      {
+        "id": "erode-brookefields-mall",
+        "name": "Brookefields Mall",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Brookefields_Mall_Erode.jpg",
+        "description": "One of the largest malls in Erode, offering a modern shopping experience.",
+        "story": "Brookefields Mall is a symbol of modern retail in Erode, providing a variety of shops, eateries, and entertainment options.",
+        "year": "2010",
+        "location": {
+          "lat": 11.3401,
+          "lng": 77.7175
+        }
+      },
+      {
+        "id": "erode-akkarayampalayam-temple",
+        "name": "Akkarayampalayam Temple",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Akkarayampalayam_Temple.jpg",
+        "description": "A historical Hindu temple dedicated to Lord Shiva.",
+        "story": "The Akkarayampalayam Temple is an ancient spiritual site where devotees come to worship Lord Shiva. It is known for its peaceful atmosphere and cultural significance.",
+        "year": "Ancient",
+        "location": {
+          "lat": 11.2968,
+          "lng": 77.7446
+        }
+      },
+      {
+        "id": "erode-vellode-bird-sanctuary",
+        "name": "Vellode Bird Sanctuary",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Vellode_Bird_Sanctuary.jpg",
+        "description": "A well-known bird sanctuary attracting migratory birds.",
+        "story": "Vellode Bird Sanctuary is an important wildlife site in Erode, home to various migratory and native birds. It is a haven for birdwatchers and nature lovers.",
+        "year": "2002",
+        "location": {
+          "lat": 11.3562,
+          "lng": 77.6588
+        }
+      },
+      {
+        "id": "erode-kavundapalayam-temple",
+        "name": "Kavundapalayam Temple",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Kavundapalayam_Temple.jpg",
+        "description": "A popular temple dedicated to Lord Murugan in the Erode region.",
+        "story": "The Kavundapalayam Temple is renowned for its religious importance and festivals that attract a large number of devotees every year.",
+        "year": "Ancient",
+        "location": {
+          "lat": 11.3315,
+          "lng": 77.7269
+        }
+      },
+      {
+        "id": "erode-thindal-temple",
+        "name": "Thindal Temple",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Thindal_Temple_Erode.jpg",
+        "description": "A prominent Lord Murugan temple situated on a hill in Erode.",
+        "story": "Thindal Temple is a famous pilgrimage site, offering beautiful views from its hilltop location. The temple is known for its spiritual and historical importance.",
+        "year": "Ancient",
+        "location": {
+          "lat": 11.3587,
+          "lng": 77.7603
+        }
+      },
+      {
+        "id": "erode-periyar-historic-park",
+        "name": "Periyar Historic Park",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Periyar_Park_Erode.jpg",
+        "description": "A lush green park that commemorates the legacy of social reformer Periyar E. V. Ramasamy.",
+        "story": "Periyar Historic Park in Erode serves as a tribute to the great reformer and is known for its well-maintained gardens and memorial structures.",
+        "year": "Modern",
+        "location": {
+          "lat": 11.3395,
+          "lng": 77.7102
+        }
+      },
+      {
+        "id": "erode-mettur-dam",
+        "name": "Mettur Dam",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mettur_Dam.jpg",
+        "description": "One of the largest dams in India, located on the Kaveri River.",
+        "story": "Mettur Dam, completed in 1934, plays a crucial role in irrigation and hydroelectric power generation. It has historical and engineering significance.",
+        "year": "1934",
+        "location": {
+          "lat": 11.5880,
+          "lng": 77.7396
+        }
+      },
+      {
+        "id": "erode-elappalayam-temple",
+        "name": "Elappalayam Temple",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Elappalayam_Temple.jpg",
+        "description": "A famous temple dedicated to Lord Shiva, located in a quiet rural area.",
+        "story": "The Elappalayam Temple is known for its peaceful ambiance and is a place where devotees gather to worship Lord Shiva. It holds cultural and spiritual significance.",
+        "year": "Ancient",
+        "location": {
+          "lat": 11.3080,
+          "lng": 77.7323
+        }
+      },
+      {
+        "id": "erode-amaravathi-temple",
+        "name": "Amaravathi Temple",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Amaravathi_Temple_Erode.jpg",
+        "description": "A historical temple dedicated to Lord Shiva, known for its architectural beauty.",
+        "story": "The Amaravathi Temple is an ancient site, featuring Dravidian architectural styles and rich cultural history.",
+        "year": "Ancient",
+        "location": {
+          "lat": 11.3034,
+          "lng": 77.7241
+        }
+      },
+      {
+        "id": "erode-sri-kottai-mariamman-temple",
+        "name": "Sri Kottai Mariamman Temple",
+        "city": "Erode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kottai_Mariamman_Temple_Erode.jpg",
+        "description": "A famous temple dedicated to Mariamman, the goddess of rain and fertility.",
+        "story": "This temple is one of the oldest in Erode and attracts thousands of devotees, especially during the annual festival.",
+        "year": "Ancient",
+        "location": {
+          "lat": 11.3422,
+          "lng": 77.7314
+        }
+      }
+    ]
+    
+  },
+  "Kallakurichi": {
+    "name": "Kallakurichi",
+    "lat": 11.7404,
+    "lng": 78.9590,
+    "image": "https://example.com/kallakurichi.jpg",
+    "description": "A newly formed district with agricultural prominence.",
+    "heritagePlaces": []
+  },
+  "Kancheepuram": {
+    "name": "Kancheepuram",
+    "lat": 12.8342,
+    "lng": 79.7036,
+    "image": "https://images.pexels.com/photos/19123211/pexels-photo-19123211/free-photo-of-kailasanathar-temple-kanchipuram.jpeg",
+    "description": "The 'City of Thousand Temples' and famous for its handwoven silk sarees.",
+    "heritagePlaces": []
+  },
+  "Karur": {
+    "name": "Karur",
+    "lat": 10.9574,
+    "lng": 78.0809,
+    "image": "https://example.com/karur.jpg",
+    "description": "Known for its textile industries and ancient temples.",
+    "heritagePlaces": []
+  },
+  "Krishnagiri": {
+    "name": "Krishnagiri",
+    "lat": 12.5186,
+    "lng": 78.2137,
+    "image": "https://example.com/krishnagiri.jpg",
+    "description": "Famous for mangoes and the Krishnagiri Dam.",
+    "heritagePlaces": []
+  },
+  "Madurai": {
+    "name": "Madurai",
+    "lat": 9.9252,
+    "lng": 78.1198,
+    "image": "https://images.pexels.com/photos/12715260/pexels-photo-12715260.jpeg",
+    "description": "One of the oldest continuously inhabited cities in the world, home to the magnificent Meenakshi Amman Temple.",
+    "heritagePlaces": [
+      {
+        "id": "madurai-meenakshi-temple",
+        "name": "Meenakshi Amman Temple",
+        "city": "Madurai",
+        "image": "https://images.pexels.com/photos/12715260/pexels-photo-12715260.jpeg",
+        "description": "Iconic temple dedicated to Goddess Meenakshi",
+        "story": "This historic temple complex spans 14 acres with 14 magnificent gopurams.",
+        "year": "1600 BCE (original), rebuilt in 17th century",
+        "location": {
+          "lat": 9.9195,
+          "lng": 78.1193
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=9.9195,78.1193"
+      },
+      {
+        "id": "madurai-thirumalai-nayak-palace",
+        "name": "Thirumalai Nayak Palace",
+        "city": "Madurai",
+        "image": "https://images.pexels.com/photos/15042429/pexels-photo-15042429/free-photo-of-thirumalai-nayak-palace-hall.jpeg",
+        "description": "17th century palace with Indo-Saracenic architecture",
+        "story": "Built by King Thirumalai Nayak in 1636, this palace showcases the grandeur of the Nayak dynasty.",
+        "year": "1636",
+        "location": {
+          "lat": 9.9253,
+          "lng": 78.1198
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=9.9253,78.1198"
+      },
+      {
+        "id": "madurai-gandhi-museum",
+        "name": "Gandhi Memorial Museum",
+        "city": "Madurai",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "Museum dedicated to Mahatma Gandhi",
+        "story": "Housed in the historic Tamukkam Palace, it contains relics from India's freedom struggle.",
+        "year": "1959",
+        "location": {
+          "lat": 9.9333,
+          "lng": 78.1167
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=9.9333,78.1167"
+      },
+      {
+        "id": "madurai-koodal-azhagar-temple",
+        "name": "Koodal Azhagar Temple",
+        "city": "Madurai",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "Ancient Vishnu temple",
+        "story": "One of the 108 Divya Desams, this temple dates back to the Pandya period.",
+        "year": "8th century CE",
+        "location": {
+          "lat": 9.9167,
+          "lng": 78.1167
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=9.9167,78.1167"
+      },
+      {
+        "id": "madurai-alagar-kovil",
+        "name": "Alagar Kovil",
+        "city": "Madurai",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "Hill temple dedicated to Lord Vishnu",
+        "story": "This ancient temple is mentioned in Tamil Sangam literature and hosts the famous Chithirai festival.",
+        "year": "3rd century BCE",
+        "location": {
+          "lat": 10.0667,
+          "lng": 78.2167
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=10.0667,78.2167"
+      }
+    ]
+  },
+  "Mayiladuthurai": {
+    "name": "Mayiladuthurai",
+    "lat": 11.1035,
+    "lng": 79.6550,
+    "image": "https://example.com/mayiladuthurai.jpg",
+    "description": "A temple town with rich cultural heritage.",
+    "heritagePlaces": []
+  },
+  "Nagapattinam": {
+    "name": "Nagapattinam",
+    "lat": 10.7667,
+    "lng": 79.8333,
+    "image": "https://example.com/nagapattinam.jpg",
+    "description": "A coastal district known for its fishing harbors and religious sites.",
+    "heritagePlaces": []
+  },
+  "Namakkal": {
+    "name": "Namakkal",
+    "lat": 11.2213,
+    "lng": 78.1652,
+    "image": "https://example.com/namakkal.jpg",
+    "description": "Famous for poultry farming and the Namakkal Fort.",
+    "heritagePlaces": []
+  },
+  "Nilgiris": {
+    "name": "Nilgiris",
+    "lat": 11.3761,
+    "lng": 76.6936,
+    "image": "https://example.com/nilgiris.jpg",
+    "description": "A picturesque hill district with tea plantations and wildlife.",
+    "heritagePlaces": []
+  },
+  "Perambalur": {
+    "name": "Perambalur",
+    "lat": 11.2229,
+    "lng": 78.8829,
+    "image": "https://example.com/perambalur.jpg",
+    "description": "Known for its limestone deposits and historical sites.",
+    "heritagePlaces": []
+  },
+  "Pudukkottai": {
+    "name": "Pudukkottai",
+    "lat": 10.3833,
+    "lng": 78.8167,
+    "image": "https://example.com/pudukkottai.jpg",
+    "description": "Rich in archaeological sites and ancient temples.",
+    "heritagePlaces": []
+  },
+  "Ramanathapuram": {
+    "name": "Ramanathapuram",
+    "lat": 9.3716,
+    "lng": 78.8307,
+    "image": "https://example.com/ramanathapuram.jpg",
+    "description": "Home to the famous Rameswaram Temple and Pamban Bridge.",
+    "heritagePlaces": []
+  },
+  "Ranipet": {
+    "name": "Ranipet",
+    "lat": 12.9344,
+    "lng": 79.3314,
+    "image": "https://example.com/ranipet.jpg",
+    "description": "Known for its leather industries and historical forts.",
+    "heritagePlaces": []
+  },
+  "Salem": {
+    "name": "Salem",
+    "lat": 11.6643,
+    "lng": 78.1460,
+    "image": "https://images.pexels.com/photos/19443213/pexels-photo-19443213/free-photo-of-yercaud-lake-in-salem.jpeg",
+    "description": "Known for its rich history, mango cultivation, and the steel industry.",
+    "heritagePlaces": []
+  },
+  "Sivaganga": {
+    "name": "Sivaganga",
+    "lat": 9.8436,
+    "lng": 78.4806,
+    "image": "https://example.com/sivaganga.jpg",
+    "description": "A district with historical palaces and religious sites.",
+    "heritagePlaces": []
+  },
+  "Tenkasi": {
+    "name": "Tenkasi",
+    "lat": 8.9601,
+    "lng": 77.3154,
+    "image": "https://example.com/tenkasi.jpg",
+    "description": "Famous for the Courtallam waterfalls and temples.",
+    "heritagePlaces": []
+  },
+  "Thanjavur": {
+    "name": "Thanjavur",
+    "lat": 10.7869,
+    "lng": 79.1378,
+    "image": "https://images.pexels.com/photos/13389220/pexels-photo-13389220.jpeg",
+    "description": "The cultural capital of Tamil Nadu, home to the UNESCO World Heritage Site Brihadeeswarar Temple.",
+    "heritagePlaces": []
+  },
+  "Theni": {
+    "name": "Theni",
+    "lat": 10.0104,
+    "lng": 77.4768,
+    "image": "https://example.com/theni.jpg",
+    "description": "Known for its agricultural farms and scenic beauty.",
+    "heritagePlaces": []
+  },
+  "Thoothukudi": {
+    "name": "Thoothukudi",
+    "lat": 8.7642,
+    "lng": 78.1348,
+    "image": "https://example.com/thoothukudi.jpg",
+    "description": "A major port city famous for pearl fishing and salt production.",
+    "heritagePlaces": []
+  },
+  "Tiruchirappalli": {
+    "name": "Tiruchirappalli",
+    "lat": 10.7905,
+    "lng": 78.7047,
+    "image": "https://images.pexels.com/photos/17079145/pexels-photo-17079145/free-photo-of-rockfort-temple-in-trichy-tamil-nadu-india.jpeg",
+    "description": "Home to the famous Rock Fort Temple and Srirangam temple, a major pilgrimage center.",
+    "heritagePlaces": [
+      {
+        "id": "trichy-srirangam-temple",
+        "name": "Srirangam Ranganathaswamy Temple",
+        "city": "Tiruchirappalli",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "Largest functioning Hindu temple in the world",
+        "story": "This temple complex covers 156 acres and is one of the most important Vishnu temples.",
+        "year": "10th century CE",
+        "location": {
+          "lat": 10.8667,
+          "lng": 78.6833
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=10.8667,78.6833"
+      },
+      {
+        "id": "trichy-rockfort",
+        "name": "Rockfort Temple",
+        "city": "Tiruchirappalli",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "Ancient temple on a massive rock",
+        "story": "This 83m tall rock has been a fortress since ancient times, with temples built by the Pallavas.",
+        "year": "7th century CE",
+        "location": {
+          "lat": 10.8167,
+          "lng": 78.6833
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=10.8167,78.6833"
+      },
+      {
+        "id": "trichy-jambukeswarar-temple",
+        "name": "Jambukeswarar Temple",
+        "city": "Tiruchirappalli",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "One of the five Pancha Bhoota Stalas",
+        "story": "This temple represents the element of water and has an underground water stream.",
+        "year": "2nd century CE",
+        "location": {
+          "lat": 10.8533,
+          "lng": 78.7056
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=10.8533,78.7056"
+      },
+      {
+        "id": "trichy-kallanai-dam",
+        "name": "Kallanai Dam",
+        "city": "Tiruchirappalli",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "One of the oldest water-diversion structures in the world",
+        "story": "Built by the Chola king Karikalan around 2nd century CE, it's still in use today.",
+        "year": "2nd century CE",
+        "location": {
+          "lat": 10.8333,
+          "lng": 78.8167
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=10.8333,78.8167"
+      },
+      {
+        "id": "trichy-st-josephs-college",
+        "name": "St. Joseph's College",
+        "city": "Tiruchirappalli",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg",
+        "description": "Historic educational institution",
+        "story": "Founded in 1844 by French missionaries, it's one of the oldest colleges in India.",
+        "year": "1844",
+        "location": {
+          "lat": 10.8167,
+          "lng": 78.6833
+        },
+        "googleMapsUrl": "https://maps.google.com/?q=10.8167,78.6833"
+      }
+    ]
+  },
+  "Tirunelveli": {
+    "name": "Tirunelveli",
+    "lat": 8.7139,
+    "lng": 77.7567,
+    "image": "https://images.pexels.com/photos/13320989/pexels-photo-13320989.jpeg",
+    "description": "Famous for its unique cuisine including 'Tirunelveli Halwa' and ancient temples.",
+    "heritagePlaces": []
+  },
+  "Tirupathur": {
+    "name": "Tirupathur",
+    "lat": 12.4976,
+    "lng": 78.5599,
+    "image": "https://example.com/tirupathur.jpg",
+    "description": "A district with historical temples and forts.",
+    "heritagePlaces": []
+  },
+  "Tiruppur": {
+    "name": "Tiruppur",
+    "lat": 11.1085,
+    "lng": 77.3411,
+    "image": "https://images.pexels.com/photos/15975512/pexels-photo-15975512/free-photo-of-tiruppur-district-tamil-nadu.jpeg",
+    "description": "Known as the 'Knit Wear Capital' of India for its textile manufacturing.",
+    "heritagePlaces": []
+  },
+  "Tiruvallur": {
+    "name": "Tiruvallur",
+    "lat": 13.1449,
+    "lng": 79.9086,
+    "image": "https://example.com/tiruvallur.jpg",
+    "description": "Known for its temples and proximity to Chennai.",
+    "heritagePlaces": []
+  },
+  "Tiruvannamalai": {
+    "name": "Tiruvannamalai",
+    "lat": 12.2266,
+    "lng": 79.0745,
+    "image": "https://example.com/tiruvannamalai.jpg",
+    "description": "Famous for the Arunachaleswarar Temple and spiritual significance.",
+    "heritagePlaces": []
+  },
+  "Vellore": {
+    "name": "Vellore",
+    "lat": 12.9165,
+    "lng": 79.1325,
+    "image": "https://images.pexels.com/photos/9887899/pexels-photo-9887899.jpeg",
+    "description": "Known for its grand Vellore Fort and prestigious educational institutions.",
+    "heritagePlaces": []
+  },
+  "Viluppuram": {
+    "name": "Viluppuram",
+    "lat": 11.9426,
+    "lng": 79.4973,
+    "image": "https://example.com/viluppuram.jpg",
+    "description": "A district with historical temples and scenic landscapes.",
+    "heritagePlaces": []
+  },
+  "Virudhunagar": {
+    "name": "Virudhunagar",
+    "lat": 9.5827,
+    "lng": 77.9803,
+    "image": "https://example.com/virudhunagar.jpg",
+    "description": "Known for its firecracker industries and agricultural products.",
+    "heritagePlaces": []
+  }
+}
