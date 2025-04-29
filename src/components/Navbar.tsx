@@ -75,15 +75,16 @@ const Navbar: React.FC = () => {
   }, [location.pathname]);
 
   const exploreLinks = [
-                    ["Hills", "hills"],
-                    ["Beach", "beach"],
-                    ["Waterfall", "waterfall"],
-                    ["Lake", "lake"],
-                    ["Heritage Places", "heritageplaces"],
-                    ["Wildlife", "wildlife"],
-                    ["Temple", "temple"],
+    ["Hills", "hills"],
+    ["Beach", "beach"],
+    ["Waterfall", "waterfall"],
+    ["Lake", "lake"],
+    ["Heritage Places", "heritageplaces"],
+    ["Wildlife", "wildlife"],
+    ["Temple", "temple"],
     ["Museum", "musium"],
-                    ["Cities", "cities"]
+    ["Cities", "cities"],
+    ["Chatbot", "chatbot"]
   ];
 
   return (

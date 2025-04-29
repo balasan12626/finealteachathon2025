@@ -1,6 +1,7 @@
 import Cities from './components/Cities.tsx'; 
 import { BrowserRouter as Router, Routes, Route, Navigate, useLocation } from 'react-router-dom'; 
 import SignUp from './components/SignUp';
+import ChatbotReact from './components/ChatbotReact';
  
 import Login from './components/Login'; 
 import HeritagePlaces from './components/HeritagePlaces'; 
@@ -140,6 +141,12 @@ function AppRoutes() {
             }
             
             />
+
+            <Route path="/chatbot" element={
+              <ProtectedRoute>
+                <ChatbotReact />
+              </ProtectedRoute>
+            } />
 
             <Route path="/sign-up" element={isAuthenticated ? <Navigate to="/cities" replace /> : <SignUp />} /> 
               <Route path="/about" element={<About />} />
